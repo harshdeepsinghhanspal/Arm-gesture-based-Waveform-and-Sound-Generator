@@ -24,11 +24,16 @@ Generates audio using your arm positions as waveform samples.
 
 # ▶️ How to Run:
 > Use this command: python Wave_Generator.py
+
 > Make sure you have a webcam connected.
+
 > Press Q anytime to quit the program.
 
 #🎮 How It Works (In Short)
 > ✋ Raise or move your arms → waveform shape changes
+> 
 > 🤲 Move wrists apart → frequency increases
+>
 > 🧍 Lean left/right → audio pans to that side
+>
 > 👀 Watch the live waveform visualization update in sync
